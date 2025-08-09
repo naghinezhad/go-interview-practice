@@ -10,12 +10,14 @@
 | JackDalberg | 6 | 6 |
 | JunLog | 6 | 6 |
 | K1tten2005 | 6 | 6 |
+| KaiserKun | 6 | 6 |
 | KhaledMosaad | 6 | 6 |
 | Mamsheikh | 6 | 6 |
 | MuraliMohan-2000 | 6 | 6 |
 | PolinaSvet | 6 | 6 |
 | RezaSi | 6 | 6 |
 | Seokky | 6 | 6 |
+| VadimihrSvS | 6 | 6 |
 | Ward-R | 6 | 6 |
 | YounesBouchbouk | 6 | 6 |
 | ZaharBorisenko | 6 | 6 |
@@ -37,6 +39,7 @@
 | jersonzc | 6 | 6 |
 | joaovitoralvares | 6 | 6 |
 | jordanhimawan | 6 | 6 |
+| korranat9 | 6 | 6 |
 | krmaxwell | 6 | 6 |
 | kuzminprog | 6 | 6 |
 | lajosbnk | 6 | 6 |
