@@ -292,16 +292,6 @@ cd challenge-1
 ./run_tests.sh
 ```
 
-## Scoreboards
-
-Each challenge has its own scoreboard that tracks:
-- Successful submissions by user
-- Execution time rankings
-- Code efficiency metrics
-- Completion dates
-
-View global and per-challenge scoreboards in the Web UI to compare your solutions with others.
-
 ## Profile Badges for Contributors
 
 Showcase your Go programming achievements with auto-updating profile badges for GitHub profiles, portfolios, and personal websites.
@@ -400,7 +390,6 @@ We welcome contributions! You can contribute in several ways:
 - Submit your solutions via pull request
 
 **Add New Challenges:**
-- **Classic Challenges:** Algorithm and data structure problems
 - **Package Challenges:** Framework-specific practical applications (Gin, Cobra, GORM, etc.)
 
 **Quick Steps:**
