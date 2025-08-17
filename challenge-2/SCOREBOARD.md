@@ -3,6 +3,7 @@
 |------------|--------------|-------------|
 | AkifhanIlgaz | 7 | 7 |
 | AliNazariii | 7 | 7 |
+| Andresrvaz | 7 | 7 |
 | Gandook | 7 | 7 |
 | IBraveMonkey | 7 | 7 |
 | JackDalberg | 7 | 7 |
@@ -26,6 +27,7 @@
 | aseifi880 | 7 | 7 |
 | ashwinipatankar | 7 | 7 |
 | betosmith2000 | 7 | 7 |
+| cep-ter | 7 | 7 |
 | chenyao0910 | 7 | 7 |
 | decko | 7 | 7 |
 | deloz | 7 | 7 |
