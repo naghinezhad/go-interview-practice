@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | Gandook | 23 | 23 |
+| GinVlad | 23 | 23 |
 | IBraveMonkey | 23 | 23 |
 | JackDalberg | 23 | 23 |
 | JunLog | 23 | 23 |
@@ -23,6 +24,7 @@
 | lanmanul | 23 | 23 |
 | mayconvm | 23 | 23 |
 | mick4711 | 23 | 23 |
+| muhammedkucukaslan | 23 | 23 |
 | odelbos | 23 | 23 |
 | perekoshik | 23 | 23 |
 | t4e1 | 23 | 23 |
