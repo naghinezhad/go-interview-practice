@@ -4,6 +4,7 @@
 | AkifhanIlgaz | 7 | 7 |
 | AliNazariii | 7 | 7 |
 | Andresrvaz | 7 | 7 |
+| Cpoing | 7 | 7 |
 | Gandook | 7 | 7 |
 | GinVlad | 7 | 7 |
 | IBraveMonkey | 7 | 7 |
@@ -19,6 +20,7 @@
 | PolinaSvet | 7 | 7 |
 | RezaSi | 7 | 7 |
 | Seokky | 7 | 7 |
+| TOomaAh | 7 | 7 |
 | VadimihrSvS | 7 | 7 |
 | YounesBouchbouk | 7 | 7 |
 | ZaharBorisenko | 7 | 7 |
